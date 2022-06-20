@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Election_DAPP/static/css/main.a617e044.chunk.css",
+    "main.js": "/Election_DAPP/static/js/main.02ed2675.chunk.js",
+    "main.js.map": "/Election_DAPP/static/js/main.02ed2675.chunk.js.map",
+    "runtime-main.js": "/Election_DAPP/static/js/runtime-main.3d81fba3.js",
+    "runtime-main.js.map": "/Election_DAPP/static/js/runtime-main.3d81fba3.js.map",
+    "static/js/2.8cb28671.chunk.js": "/Election_DAPP/static/js/2.8cb28671.chunk.js",
+    "static/js/2.8cb28671.chunk.js.map": "/Election_DAPP/static/js/2.8cb28671.chunk.js.map",
+    "static/js/3.698543a4.chunk.js": "/Election_DAPP/static/js/3.698543a4.chunk.js",
+    "static/js/3.698543a4.chunk.js.map": "/Election_DAPP/static/js/3.698543a4.chunk.js.map",
+    "index.html": "/Election_DAPP/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Election_DAPP/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.8cb28671.chunk.js.LICENSE.txt": "/Election_DAPP/static/js/2.8cb28671.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d81fba3.js",
+    "static/js/2.8cb28671.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.02ed2675.chunk.js"
+  ]
+}
